@@ -35,7 +35,7 @@ Must have a working ide. and Java on the local machine
 ## Contact
 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Benjaminjbonnet/rewardservice/new/main/rewardservice)
+Project Link: [https://github.com/Benjaminjbonnet/rewardservice/new/main/rewardservice](https://github.com/Benjaminjbonnet/rewardservice/new/main/rewardservice)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
